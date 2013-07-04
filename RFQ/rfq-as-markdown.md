@@ -211,11 +211,8 @@ Submissions received after the closing date and time will not be evaluated and w
 2. Project Team
 
     * Consultants shall identify and provide availability of management staff and key personnel who will be responsible for design and implementation of the anticipated contract, as well as their roles in the project.
-
     * The successful proponent must have one key member from the project team available to meet with the Steering Committee in Saskatoon on reasonable notice.
-
     * The RFQ must identify which Sub-Consultants or specialist services will be used and what their role will be. Sub-Consultants and their work must be totally integrated into the Project Team.
-
     * Provide educational background, experience, and other relevant information for the Project Manager and the Project Team.
 
         * Key attributes of the Team should include:
@@ -232,13 +229,11 @@ Submissions received after the closing date and time will not be evaluated and w
 3. Related Project Experience and References
 
     * Consultants shall provide past experience to assignments of similar scope and complexity carried out by the firm, management staff, and key personnel. Key project staff involvement in each of the projects with their role in the project should be highlighted.
-
-    * Consultants shall provide references for similar work completed for other communities or large corporations. The City may contact these individuals to discuss their experience with your firm, your Project Team, and any Sub-Consultants. 
+    * Consultants shall provide references for similar work completed for other communities or large corporations. The City may contact these individuals to discuss their experience with your firm, your Project Team, and any Sub-Consultants.
 
 4. Project Overview
 
     * Consultants shall provide a brief overview of: 
-
         * their understanding of the project requirements; and
         * anticipated methods and technical approach that they intend to implement if chosen to work on this project.
 
