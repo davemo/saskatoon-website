@@ -5,7 +5,7 @@
 # WEBSITE REDESIGN PROJECT
 
 ## 1.0 General Information
- 
+
 **Vision**
 
 The Website Redesign Project is one of the four year priority items in the City of Saskatoon Strategic Plan [(http://www.sp.saskatooncitynews.ca/)](http://www.sp.saskatooncitynews.ca/).
