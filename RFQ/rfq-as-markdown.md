@@ -203,12 +203,12 @@ Ten (10) copies of the RFQ are to be submitted in a sealed package clearly marke
 
 Submissions received after the closing date and time will not be evaluated and will be returned unopened. Delivery service disruptions will not be acceptable conditions for late submissions. The RFQ document shall include the following information:
 
-1. General
+### General
 
   * The name, address, telephone number, and email address of the Lead Consultant.
   * Identification of all Sub-Consultant(s).
 
-2. Project Team
+### Project Team
 
   * Consultants shall identify and provide availability of management staff and key personnel who will be responsible for design and implementation of the anticipated contract, as well as their roles in the project.
   * The successful proponent must have one key member from the project team available to meet with the Steering Committee in Saskatoon on reasonable notice.
@@ -225,12 +225,12 @@ Submissions received after the closing date and time will not be evaluated and w
         * Solid communication and facilitation skills.
         * Community and stakeholder engagement experience.
 
-3. Related Project Experience and References
+### Related Project Experience and References
 
   * Consultants shall provide past experience to assignments of similar scope and complexity carried out by the firm, management staff, and key personnel. Key project staff involvement in each of the projects with their role in the project should be highlighted.
   * Consultants shall provide references for similar work completed for other communities or large corporations. The City may contact these individuals to discuss their experience with your firm, your Project Team, and any Sub-Consultants.
 
-4. Project Overview
+### Project Overview
 
   * Consultants shall provide a brief overview of: 
     * their understanding of the project requirements; and
