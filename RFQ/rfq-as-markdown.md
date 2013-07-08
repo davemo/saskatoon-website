@@ -4,6 +4,8 @@
 
 # WEBSITE REDESIGN PROJECT
 
+# Closing Date: Tuesday, July 23rd, 2pm CST
+
 ## 1.0 General Information
 
 **Vision**
